@@ -1,4 +1,4 @@
 hello so I'm making another file, to see how 
 github displays multiple files
 
-merge conflict part 1
+merge conflict part 5
