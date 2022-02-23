@@ -1,5 +1,5 @@
 Hi this is kim1
 Hi this is kim1 again
 
-another merge conflict again part 2
+to check if it grasps the filenames correctly
 
