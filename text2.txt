@@ -2,3 +2,4 @@ hello so I'm making another file, to see how
 github displays multiple files
 
 merge conflict part 3
+we're doing this to test if it works with multiple files
